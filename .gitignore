@@ -1,3 +1,9 @@
+*.swp
+*.swo
+
+oldstuff
+oldstuff/*
+
 # Prerequisites
 *.d
 
